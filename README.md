@@ -36,10 +36,6 @@
 
 ###
 
-<div align="right">
-  <img height="150" src="https://media.tenor.com/vjP1NdkBNQwAAAAC/duck-walk.gif"  />
-</div>
-
 ###
 
 <br clear="both">
