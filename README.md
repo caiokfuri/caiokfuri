@@ -23,7 +23,6 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="MySql" 
@@ -31,7 +30,6 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
 />
 <img 
     align="left" 
