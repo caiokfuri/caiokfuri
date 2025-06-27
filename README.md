@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmente como estagiário de TI em uma empresa de geração de energia, tenho curso técnico de redes e estou cursando engenharia de software, estou atualmente no meu 2° semestre. Gosto muito de tecnologia e também de aprender coisas novas, caso queira algum contato, só clicar no ;icone do linkedin!
+Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmente como estagiário de TI em uma empresa de geração de energia, tenho curso técnico de redes e estou cursando engenharia de software, estou atualmente no meu 2° semestre. Gosto muito de tecnologia e também de aprender coisas novas, caso queira algum contato, só clicar no icone do linkedin!
 
 <p align="left">
     <a href="https://github.com/caiokfuri?tab=repositories&sort=stargazers">
@@ -10,13 +10,6 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/caiokfuri?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/caiokfuri?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/caiokfuri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -109,9 +102,8 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiokfuri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=caiokfuri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
 
 ###
