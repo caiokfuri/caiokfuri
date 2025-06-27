@@ -4,16 +4,6 @@
 
 Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmente como estagiário de TI em uma empresa de geração de energia, tenho curso técnico de redes e estou cursando engenharia de software, estou atualmente no meu 2° semestre. Gosto muito de tecnologia e também de aprender coisas novas, caso queira algum contato, só clicar no icone do linkedin!
 
-<p align="left">
-    <a href="https://github.com/caiokfuri?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/caiokfuri?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -90,14 +80,6 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caiokfuri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
