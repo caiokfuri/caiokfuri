@@ -72,6 +72,8 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br>
+
 ### 📊 Estatísticas
 
 <p>
