@@ -82,7 +82,7 @@ Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmen
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=caiokfuri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+/>
 </p>
 
 ###
