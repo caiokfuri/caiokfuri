@@ -1,96 +1,21 @@
-# 👩🏻‍💻 Caio Kfuri
+### Hey! What's up? <img src="https://emojis.slackmojis.com/emojis/images/1643514688/6905/blob_salute.png?1643514688" width="22" />
 
-**`Desenvolvedor Backend`**
+I'm <a href="https://github.com/CaioK367"><strong>Caio</strong></a> (or Kfuri to friends), a software engineer based in Brazil.
 
-Me chamo Caio, tenho 18 anos e sou de belo horizonte. Estou trabalhando atualmente como estagiário de TI em uma empresa de geração de energia, tenho curso técnico de redes e estou cursando engenharia de software, estou atualmente no meu 2° semestre. Gosto muito de tecnologia e também de aprender coisas novas, caso queira algum contato, só clicar no icone do linkedin!
+**If I can think of it, I'll find a way to engineer it.**
 
----
+I'm building a strong background in the **Java ecosystem (Spring Boot)** and **C++**. On the frontend, I'm currently expanding my skills with **React**.
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+I'm deeply interested in **Software Architecture** and **Hardware**. Currently, I'm diving into **low-level computing**, bridging the gap between software and the physical world.
 
-<br>
+My main tech stack is Java/Spring Boot and C++. My favorite tools are **Docker**, **Insomnia**, and **Concepts** (for sketching ideas on my tablet).
 
-### 📊 Estatísticas
+**Fun Facts:**
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=caiokfuri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-</p>
+* ⚔️ **Gamer:** I love shooters, story-driven games, and roguelites.
+* 🎃 **Holiday:** My favorite holiday is Halloween.
+* 👻 **TV:** Big fan of the Supernatural series.
+* 🖥️ **Hardware:** I enjoy building and tweaking my own PC rigs.
+* 🐧 **Explorer:** I run a dual-boot setup (Windows & Linux) to get the best of both worlds.
 
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CaioK367/CaioK367/output/snake.svg" alt="Snake animation" />
-
-###
+<br />
