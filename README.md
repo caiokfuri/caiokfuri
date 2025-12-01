@@ -16,6 +16,5 @@ My main tech stack is Java/Spring Boot and C++. My favorite tools are **Docker**
 * 🎃 **Holiday:** My favorite holiday is Halloween.
 * 👻 **TV:** Big fan of the Supernatural series.
 * 🖥️ **Hardware:** I enjoy building and tweaking my own PC rigs.
-* 🐧 **Explorer:** I run a dual-boot setup (Windows & Linux) to get the best of both worlds.
 
 <br />
